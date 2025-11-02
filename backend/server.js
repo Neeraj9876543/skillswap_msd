@@ -37,10 +37,7 @@ app.use("/api/sessions", sessionsRoutes);
 app.use("/api/messages", messagesRoutes);
 app.use("/api/contact", contactRoutes);
 
-mongoose.connect(process.env.MONGO_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
+mongoose.connect(process.env.MONGO_URI)
 .then(() => {
   console.log("MongoDB connected");
   app.listen(PORT, () => console.log(`[backend] Server running on port ${PORT}`));
