@@ -4,9 +4,13 @@
   "description": "SkillSwap Backend Server",
   "main": "server.js",
   "type": "commonjs",
+  "engines": {
+    "node": ">=14.0.0"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
+    "build": "chmod +x build.sh && ./build.sh",
     "test": "node test/health-check.js"
   },
   "keywords": [],
