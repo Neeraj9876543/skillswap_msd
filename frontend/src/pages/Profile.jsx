@@ -78,11 +78,9 @@ const countryStateCityData = {
 
   },
   Canada: {
-    
-    BritishColumbia: ["Vancouver", "Victoria", "Kelowna"],
+    BritishColumbia: ["Vancouver","Victoria","Surrey","Burnaby","Kelowna","Richmond","Abbotsford","Coquitlam","Langley","Saanich"],
     Ontario: ["Toronto","Ottawa","Mississauga","Brampton","Hamilton","London","Markham","Vaughan","Kitchener","Windsor"],
     Quebec: ["Montreal","Quebec City","Laval","Gatineau","Longueuil","Sherbrooke","Saguenay","Trois-Rivières","Terrebonne","Lévis"],
-    BritishColumbia: ["Vancouver","Victoria","Surrey","Burnaby","Kelowna","Richmond","Abbotsford","Coquitlam","Langley","Saanich"],
     Alberta: ["Calgary","Edmonton","Red Deer","Lethbridge","St. Albert","Grande Prairie","Medicine Hat","Airdrie","Spruce Grove","Fort McMurray"],
     Manitoba: ["Winnipeg","Brandon","Steinbach","Thompson","Portage la Prairie","Selkirk","Morden","Winkler","Dauphin","Flin Flon"],
     Saskatchewan: ["Saskatoon","Regina","Prince Albert","Moose Jaw","Swift Current","Yorkton","Estevan","Warman","Martensville","Lloydminster"],
