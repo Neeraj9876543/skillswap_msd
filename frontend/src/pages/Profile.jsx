@@ -51,7 +51,7 @@ const countryStateCityData = {
     JammuKashmir: ["Anantnag","Bandipora","Baramulla","Budgam","Doda","Ganderbal","Jammu","Kargil","Kathua","Kishtwar","Kulgam","Kupwara","Leh","Poonch","Pulwama","Rajouri","Ramban","Reasi","Samba","Shopian","Srinagar","Udhampur"]
   },
   USA: {
-    California: ["Los Angeles", "San Francisco", "San Diego"],
+    California: ["LosAngeles", "San Francisco", "San Diego"],
     Texas: ["Houston", "Dallas", "Austin"],
     Alabama: ["Autauga","Baldwin","Barbour","Bibb","Blount","Bullock","Butler","Calhoun","Chambers","Cherokee","Chilton","Choctaw","Clarke","Clay","Cleburne","Coffee","Colbert","Conecuh","Coosa","Covington","Crenshaw","Cullman","Dale","Dallas","DeKalb","Elmore","Escambia","Etowah","Fayette","Franklin","Geneva","Greene","Hale","Henry","Houston","Jackson","Jefferson","Lamar","Lauderdale","Lawrence","Lee","Limestone","Lowndes","Macon","Madison","Marengo","Marion","Marshall","Mobile","Monroe","Montgomery","Morgan","Perry","Pickens","Pike","Randolph","Russell","St. Clair","Shelby","Sumter","Talladega","Tallapoosa","Tuscaloosa","Walker","Washington","Wilcox","Winston"],
     Alaska: ["Aleutians East","Aleutians West","Anchorage","Bethel","Bristol Bay","Denali","Dillingham","Fairbanks North Star","Haines","Juneau","Kenai Peninsula","Ketchikan Gateway","Kodiak Island","Lake and Peninsula","Matanuska-Susitna","Nome","North Slope","Northwest Arctic","Petersburg","Prince of Wales-Hyder","Sitka","Skagway","Southeast Fairbanks","Valdez-Cordova","Wade Hampton","Wrangell","Yakutat","Yukon-Koyukuk"],
