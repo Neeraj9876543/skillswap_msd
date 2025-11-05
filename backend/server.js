@@ -60,7 +60,6 @@ mongoose.connect(process.env.MONGO_URI, {
   console.log("✅ MongoDB connected successfully");
   app.listen(PORT, () => {
     console.log(`✅ Server running on port ${PORT}`);
-    console.log(`🔗 Health check available at http://localhost:${PORT}/health`);
   });
 })
 .catch((err) => {
